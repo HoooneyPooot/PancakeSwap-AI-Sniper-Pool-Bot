@@ -15,6 +15,7 @@ Our Bots use a custom wrapper to talk directly with each exchange's smart contra
 
 ![image](https://user-images.githubusercontent.com/92737796/137945992-34c13aa4-ac2d-4c4c-96f6-e07f88f80ac6.png)
 - Auto approve
+- Use MULTIPLE Instances for multiple wallets!
 - Check clipboard, Paste and Buy
 - Set the maximum fee that the bot must consider to buy. Useful for preventing purchases with a 90% fee.
 - Honeypot Checker
